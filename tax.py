@@ -1,4 +1,4 @@
-amount = 100
-tax = .06
+amount = float(200)
+tax = .07
 total = amount + amount*tax
 print(total) 
